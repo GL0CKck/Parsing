@@ -1,0 +1,317 @@
+[
+    {
+        "Name product ": "Short Dress",
+        "Price ": "$24.99",
+        "Image ": "https://scrapingclub.com/static/img/90008-E.jpg"
+    },
+    {
+        "Name product ": "Patterned Slacks",
+        "Price ": "$29.99",
+        "Image ": "https://scrapingclub.com/static/img/96436-A.jpg"
+    },
+    {
+        "Name product ": "Short Chiffon Dress",
+        "Price ": "$49.99",
+        "Image ": "https://scrapingclub.com/static/img/93926-B.jpg"
+    },
+    {
+        "Name product ": "Off-the-shoulder Dress",
+        "Price ": "$59.99",
+        "Image ": "https://scrapingclub.com/static/img/90882-B.jpg"
+    },
+    {
+        "Name product ": "V-neck Top",
+        "Price ": "$24.99",
+        "Image ": "https://scrapingclub.com/static/img/93756-C.jpg"
+    },
+    {
+        "Name product ": "Short Chiffon Dress",
+        "Price ": "$49.99",
+        "Image ": "https://scrapingclub.com/static/img/93926-C.jpg"
+    },
+    {
+        "Name product ": "V-neck Top",
+        "Price ": "$24.99",
+        "Image ": "https://scrapingclub.com/static/img/93756-B.jpg"
+    },
+    {
+        "Name product ": "V-neck Top",
+        "Price ": "$24.99",
+        "Image ": "https://scrapingclub.com/static/img/93756-D.jpg"
+    },
+    {
+        "Name product ": "Short Lace Dress",
+        "Price ": "$59.99",
+        "Image ": "https://scrapingclub.com/static/img/96643-A.jpg"
+    },
+    {
+        "Name product ": "Short Dress",
+        "Price ": "$24.99",
+        "Image ": "https://scrapingclub.com/static/img/90008-E.jpg"
+    },
+    {
+        "Name product ": "Patterned Slacks",
+        "Price ": "$29.99",
+        "Image ": "https://scrapingclub.com/static/img/96436-A.jpg"
+    },
+    {
+        "Name product ": "Short Chiffon Dress",
+        "Price ": "$49.99",
+        "Image ": "https://scrapingclub.com/static/img/93926-B.jpg"
+    },
+    {
+        "Name product ": "Off-the-shoulder Dress",
+        "Price ": "$59.99",
+        "Image ": "https://scrapingclub.com/static/img/90882-B.jpg"
+    },
+    {
+        "Name product ": "V-neck Top",
+        "Price ": "$24.99",
+        "Image ": "https://scrapingclub.com/static/img/93756-C.jpg"
+    },
+    {
+        "Name product ": "Short Chiffon Dress",
+        "Price ": "$49.99",
+        "Image ": "https://scrapingclub.com/static/img/93926-C.jpg"
+    },
+    {
+        "Name product ": "V-neck Top",
+        "Price ": "$24.99",
+        "Image ": "https://scrapingclub.com/static/img/93756-B.jpg"
+    },
+    {
+        "Name product ": "V-neck Top",
+        "Price ": "$24.99",
+        "Image ": "https://scrapingclub.com/static/img/93756-D.jpg"
+    },
+    {
+        "Name product ": "Short Lace Dress",
+        "Price ": "$59.99",
+        "Image ": "https://scrapingclub.com/static/img/96643-A.jpg"
+    },
+    {
+        "Name product ": "Short Dress",
+        "Price ": "$24.99",
+        "Image ": "https://scrapingclub.com/static/img/90008-E.jpg"
+    },
+    {
+        "Name product ": "Patterned Slacks",
+        "Price ": "$29.99",
+        "Image ": "https://scrapingclub.com/static/img/96436-A.jpg"
+    },
+    {
+        "Name product ": "Short Chiffon Dress",
+        "Price ": "$49.99",
+        "Image ": "https://scrapingclub.com/static/img/93926-B.jpg"
+    },
+    {
+        "Name product ": "Off-the-shoulder Dress",
+        "Price ": "$59.99",
+        "Image ": "https://scrapingclub.com/static/img/90882-B.jpg"
+    },
+    {
+        "Name product ": "V-neck Top",
+        "Price ": "$24.99",
+        "Image ": "https://scrapingclub.com/static/img/93756-C.jpg"
+    },
+    {
+        "Name product ": "Short Chiffon Dress",
+        "Price ": "$49.99",
+        "Image ": "https://scrapingclub.com/static/img/93926-C.jpg"
+    },
+    {
+        "Name product ": "V-neck Top",
+        "Price ": "$24.99",
+        "Image ": "https://scrapingclub.com/static/img/93756-B.jpg"
+    },
+    {
+        "Name product ": "V-neck Top",
+        "Price ": "$24.99",
+        "Image ": "https://scrapingclub.com/static/img/93756-D.jpg"
+    },
+    {
+        "Name product ": "Short Lace Dress",
+        "Price ": "$59.99",
+        "Image ": "https://scrapingclub.com/static/img/96643-A.jpg"
+    },
+    {
+        "Name product ": "Short Dress",
+        "Price ": "$24.99",
+        "Image ": "https://scrapingclub.com/static/img/90008-E.jpg"
+    },
+    {
+        "Name product ": "Patterned Slacks",
+        "Price ": "$29.99",
+        "Image ": "https://scrapingclub.com/static/img/96436-A.jpg"
+    },
+    {
+        "Name product ": "Short Chiffon Dress",
+        "Price ": "$49.99",
+        "Image ": "https://scrapingclub.com/static/img/93926-B.jpg"
+    },
+    {
+        "Name product ": "Off-the-shoulder Dress",
+        "Price ": "$59.99",
+        "Image ": "https://scrapingclub.com/static/img/90882-B.jpg"
+    },
+    {
+        "Name product ": "V-neck Top",
+        "Price ": "$24.99",
+        "Image ": "https://scrapingclub.com/static/img/93756-C.jpg"
+    },
+    {
+        "Name product ": "Short Chiffon Dress",
+        "Price ": "$49.99",
+        "Image ": "https://scrapingclub.com/static/img/93926-C.jpg"
+    },
+    {
+        "Name product ": "V-neck Top",
+        "Price ": "$24.99",
+        "Image ": "https://scrapingclub.com/static/img/93756-B.jpg"
+    },
+    {
+        "Name product ": "V-neck Top",
+        "Price ": "$24.99",
+        "Image ": "https://scrapingclub.com/static/img/93756-D.jpg"
+    },
+    {
+        "Name product ": "Short Lace Dress",
+        "Price ": "$59.99",
+        "Image ": "https://scrapingclub.com/static/img/96643-A.jpg"
+    },
+    {
+        "Name product ": "Short Dress",
+        "Price ": "$24.99",
+        "Image ": "https://scrapingclub.com/static/img/90008-E.jpg"
+    },
+    {
+        "Name product ": "Patterned Slacks",
+        "Price ": "$29.99",
+        "Image ": "https://scrapingclub.com/static/img/96436-A.jpg"
+    },
+    {
+        "Name product ": "Short Chiffon Dress",
+        "Price ": "$49.99",
+        "Image ": "https://scrapingclub.com/static/img/93926-B.jpg"
+    },
+    {
+        "Name product ": "Off-the-shoulder Dress",
+        "Price ": "$59.99",
+        "Image ": "https://scrapingclub.com/static/img/90882-B.jpg"
+    },
+    {
+        "Name product ": "V-neck Top",
+        "Price ": "$24.99",
+        "Image ": "https://scrapingclub.com/static/img/93756-C.jpg"
+    },
+    {
+        "Name product ": "Short Chiffon Dress",
+        "Price ": "$49.99",
+        "Image ": "https://scrapingclub.com/static/img/93926-C.jpg"
+    },
+    {
+        "Name product ": "V-neck Top",
+        "Price ": "$24.99",
+        "Image ": "https://scrapingclub.com/static/img/93756-B.jpg"
+    },
+    {
+        "Name product ": "V-neck Top",
+        "Price ": "$24.99",
+        "Image ": "https://scrapingclub.com/static/img/93756-D.jpg"
+    },
+    {
+        "Name product ": "Short Lace Dress",
+        "Price ": "$59.99",
+        "Image ": "https://scrapingclub.com/static/img/96643-A.jpg"
+    },
+    {
+        "Name product ": "Short Dress",
+        "Price ": "$24.99",
+        "Image ": "https://scrapingclub.com/static/img/90008-E.jpg"
+    },
+    {
+        "Name product ": "Patterned Slacks",
+        "Price ": "$29.99",
+        "Image ": "https://scrapingclub.com/static/img/96436-A.jpg"
+    },
+    {
+        "Name product ": "Short Chiffon Dress",
+        "Price ": "$49.99",
+        "Image ": "https://scrapingclub.com/static/img/93926-B.jpg"
+    },
+    {
+        "Name product ": "Off-the-shoulder Dress",
+        "Price ": "$59.99",
+        "Image ": "https://scrapingclub.com/static/img/90882-B.jpg"
+    },
+    {
+        "Name product ": "V-neck Top",
+        "Price ": "$24.99",
+        "Image ": "https://scrapingclub.com/static/img/93756-C.jpg"
+    },
+    {
+        "Name product ": "Short Chiffon Dress",
+        "Price ": "$49.99",
+        "Image ": "https://scrapingclub.com/static/img/93926-C.jpg"
+    },
+    {
+        "Name product ": "V-neck Top",
+        "Price ": "$24.99",
+        "Image ": "https://scrapingclub.com/static/img/93756-B.jpg"
+    },
+    {
+        "Name product ": "V-neck Top",
+        "Price ": "$24.99",
+        "Image ": "https://scrapingclub.com/static/img/93756-D.jpg"
+    },
+    {
+        "Name product ": "Short Lace Dress",
+        "Price ": "$59.99",
+        "Image ": "https://scrapingclub.com/static/img/96643-A.jpg"
+    },
+    {
+        "Name product ": "Short Dress",
+        "Price ": "$24.99",
+        "Image ": "https://scrapingclub.com/static/img/90008-E.jpg"
+    },
+    {
+        "Name product ": "Patterned Slacks",
+        "Price ": "$29.99",
+        "Image ": "https://scrapingclub.com/static/img/96436-A.jpg"
+    },
+    {
+        "Name product ": "Short Chiffon Dress",
+        "Price ": "$49.99",
+        "Image ": "https://scrapingclub.com/static/img/93926-B.jpg"
+    },
+    {
+        "Name product ": "Off-the-shoulder Dress",
+        "Price ": "$59.99",
+        "Image ": "https://scrapingclub.com/static/img/90882-B.jpg"
+    },
+    {
+        "Name product ": "V-neck Top",
+        "Price ": "$24.99",
+        "Image ": "https://scrapingclub.com/static/img/93756-C.jpg"
+    },
+    {
+        "Name product ": "Short Chiffon Dress",
+        "Price ": "$49.99",
+        "Image ": "https://scrapingclub.com/static/img/93926-C.jpg"
+    },
+    {
+        "Name product ": "V-neck Top",
+        "Price ": "$24.99",
+        "Image ": "https://scrapingclub.com/static/img/93756-B.jpg"
+    },
+    {
+        "Name product ": "V-neck Top",
+        "Price ": "$24.99",
+        "Image ": "https://scrapingclub.com/static/img/93756-D.jpg"
+    },
+    {
+        "Name product ": "Short Lace Dress",
+        "Price ": "$59.99",
+        "Image ": "https://scrapingclub.com/static/img/96643-A.jpg"
+    }
+]
